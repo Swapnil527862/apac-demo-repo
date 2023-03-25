@@ -2,6 +2,8 @@ welcome swapnil potdar
 
 car > demo.txt
 cat demo.txt
+
+this is wrong ..plz correct
 exit
 >>
  git commit
