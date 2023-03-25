@@ -1,0 +1,8 @@
+welcome swapnil potdar 
+
+car > demo.txt
+cat demo.txt
+exit
+>>
+ git commit
+
