@@ -8,4 +8,6 @@ exit
 >>
  git commit
 
+this is new changes 
+
 this is muy sample file 
